@@ -1406,6 +1406,7 @@ input, textarea, select {
 
 .form-control::placeholder {
   color: var(--gray-400);
+}
 
 textarea.form-control {
   resize: vertical;
