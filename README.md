@@ -4,6 +4,10 @@ A premium, framework-free HTML template for gyms and fitness centers. Built with
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Pages
 
 | Page | File | Description |
